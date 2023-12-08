@@ -1,0 +1,2 @@
+def compress(s):
+    pass
