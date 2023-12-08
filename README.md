@@ -5,7 +5,7 @@ Repo contains problem sets for data structures and algorithms in Python by [Alvi
 - [ ] max value
 - [ ] is prime
 
-## 1. Arrays and Strings - 11th Dec
+## 1. Arrays and Strings - 11th to 12th Dec
 - [ ] uncompress
 - [ ] compress
 - [ ] anagrams
@@ -15,7 +15,7 @@ Repo contains problem sets for data structures and algorithms in Python by [Alvi
 - [ ] intersection
 - [ ] five sort
 
-## 2. Linked Lists
+## 2. Linked Lists - 13th to 14th Dec
 - [ ] linked list values
 - [ ] sum list
 - [ ] linked list find
@@ -30,7 +30,7 @@ Repo contains problem sets for data structures and algorithms in Python by [Alvi
 - [ ] create linked list
 - [ ] add lists
 
-## 3. Binary Tree
+## 3. Binary Tree - 15th to 18th Dec
 - [ ] depth first values
 - [ ] breadth first values
 - [ ] tree sum
@@ -46,7 +46,7 @@ Repo contains problem sets for data structures and algorithms in Python by [Alvi
 - [ ] level averages
 - [ ] leaf list
 
-## 4. Graphs
+## 4. Graphs - 19th to 21st Dec
 - [ ] has path
 - [ ] unidirected path
 - [ ] connected components count
@@ -62,7 +62,7 @@ Repo contains problem sets for data structures and algorithms in Python by [Alvi
 - [ ] prereqs possible
 - [ ] knight attack
 
-## 5. Dynamic Programming
+## 5. Dynamic Programming - 22nd to 25th Dec
 - [ ] fib
 - [ ] tribonacci
 - [ ] sum possible
@@ -79,20 +79,20 @@ Repo contains problem sets for data structures and algorithms in Python by [Alvi
 - [ ] quickest concat
 - [ ] knightly number
 
-## 6. Stack
+## 6. Stack - 26th Dec
 - [ ] paired parentheses
 - [ ] befitting brackets
 - [ ] decompress braces
 - [ ] nesting score
 
-## 7. Exhaustive Recursion
+## 7. Exhaustive Recursion - 27th Dec
 - [ ] subsets
 - [ ] permutations
 - [ ] create combinations
 - [ ] parenthetical possibilities
 - [ ] substitute synonyms
 
-## 8. Revision
+## 8. Revision - 28th Dec to 1st Jan
 - [ ] linked palindrome
 - [ ] middle value
 - [ ] linked list cycle
