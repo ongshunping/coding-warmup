@@ -1,0 +1,2 @@
+def greet(s):
+    pass
