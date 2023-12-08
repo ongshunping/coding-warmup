@@ -1,11 +1,13 @@
 Repo contains problem sets for data structures and algorithms in Python by [Alvin Zablan](https://github.com/alvin-the-programmer) from [structy](https://www.structy.net/)
 
 ## 0. Introduction - 8th Dec
+[Introduction Playlist](https://www.dropbox.com/scl/fo/0ewzk5jmx4tez2yw8q2lk/h?rlkey=mborcki8liattttex3kfgv1do&dl=0)
 - [ ] hey programmer
 - [ ] max value
 - [ ] is prime
 
 ## 1. Arrays and Strings - 11th to 12th Dec
+[Arrays and String Playlist](https://www.dropbox.com/scl/fo/8wmxb5z9muihkw919ev9p/h?rlkey=ocwppsnl19zwdxaky8va312qs&dl=0)
 - [ ] uncompress
 - [ ] compress
 - [ ] anagrams
