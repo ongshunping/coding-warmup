@@ -1,124 +1,125 @@
 Repo contains problem sets for data structures and algorithms in Python by [Alvin Zablan](https://github.com/alvin-the-programmer) from [structy](https://www.structy.net/)
 
-## 0. Introduction - 8th Dec
+## 0. Introduction
 [Introduction Playlist](https://www.dropbox.com/scl/fo/0ewzk5jmx4tez2yw8q2lk/h?rlkey=mborcki8liattttex3kfgv1do&dl=0)
-- [ ] hey programmer
-- [ ] max value
-- [ ] is prime
+- [ ] hey programmer (5 mins)
+- [ ] max value (15 mins)
+- [ ] is prime (25 mins)
 
-## 1. Arrays and Strings - 11th to 12th Dec
+## 1. Arrays and Strings
 [Arrays and String Playlist](https://www.dropbox.com/scl/fo/8wmxb5z9muihkw919ev9p/h?rlkey=ocwppsnl19zwdxaky8va312qs&dl=0)
-- [ ] uncompress
-- [ ] compress
-- [ ] anagrams
-- [ ] most frequent char
-- [ ] pair sum
-- [ ] pair product
-- [ ] intersection
-- [ ] five sort
+- [ ] uncompress (40 mins)
+- [ ] compress (40 mins)
+- [ ] anagrams (30 mins)
+- [ ] most frequent char (25 mins)
+- [ ] pair sum (45 mins)
+- [ ] pair product (35 mins)
+- [ ] intersection (35 mins)
+- [ ] five sort (35 mins)
 
-## 2. Linked Lists - 13th to 14th Dec
-- [ ] linked list values
-- [ ] sum list
-- [ ] linked list find
-- [ ] get node value
-- [ ] reverse list
-- [ ] zipper lists
-- [ ] merge lists
-- [ ] is univalue list
-- [ ] longest streak
-- [ ] remove node
-- [ ] insert node
-- [ ] create linked list
-- [ ] add lists
+## 2. Linked Lists
+[Linked Lists Playlist](https://www.dropbox.com/scl/fo/cenpbqe62q4bz6h5m4ose/h?rlkey=li6mswhdzkthf3fpdl63ps46v&dl=0)
+- [ ] linked list values (30 mins)
+- [ ] sum list (25 mins)
+- [ ] linked list find (30 mins)
+- [ ] get node value (30 mins)
+- [ ] reverse list (30 mins)
+- [ ] zipper lists (40 mins)
+- [ ] merge lists (40 mins)
+- [ ] is univalue list (30 mins)
+- [ ] longest streak (30 mins)
+- [ ] remove node (40 mins)
+- [ ] insert node (40 mins)
+- [ ] create linked list (40 mins)
+- [ ] add lists (70 mins)
 
-## 3. Binary Tree - 15th to 18th Dec
-- [ ] depth first values
-- [ ] breadth first values
-- [ ] tree sum
-- [ ] tree includes
-- [ ] tree min value
-- [ ] max root to leaf path sum
-- [ ] tree path finder
-- [ ] tree value count
-- [ ] how high
-- [ ] bottom right value
-- [ ] all tree paths
-- [ ] tree levels
-- [ ] level averages
-- [ ] leaf list
+## 3. Binary Tree
+- [ ] depth first values (60 mins)
+- [ ] breadth first values (35 mins)
+- [ ] tree sum (40 mins)
+- [ ] tree includes (40 mins)
+- [ ] tree min value (45 mins)
+- [ ] max root to leaf path sum (55 mins)
+- [ ] tree path finder (60 mins)
+- [ ] tree value count (40 mins)
+- [ ] how high (35 mins)
+- [ ] bottom right value (35 mins)
+- [ ] all tree paths (70 mins)
+- [ ] tree levels (55 mins)
+- [ ] level averages (40 mins)
+- [ ] leaf list (40 mins)
 
-## 4. Graphs - 19th to 21st Dec
-- [ ] has path
-- [ ] unidirected path
-- [ ] connected components count
-- [ ] largest component
-- [ ] shortest path
-- [ ] island count
-- [ ] minimum island
-- [ ] closest carrot
-- [ ] longest path
-- [ ] semesters required
-- [ ] best bridge
-- [ ] has cycle
-- [ ] prereqs possible
-- [ ] knight attack
+## 4. Graphs
+- [ ] has path (50 mins)
+- [ ] unidirected path (60 mins)
+- [ ] connected components count (60 mins)
+- [ ] largest component (50 mins)
+- [ ] shortest path (60 mins)
+- [ ] island count (50 mins)
+- [ ] minimum island (50 mins)
+- [ ] closest carrot (50 mins)
+- [ ] longest path (50 mins)
+- [ ] semesters required (75 mins)
+- [ ] best bridge (75 mins)
+- [ ] has cycle (55 mins)
+- [ ] prereqs possible (45 mins)
+- [ ] knight attack (40 mins)
 
-## 5. Dynamic Programming - 22nd to 25th Dec
-- [ ] fib
-- [ ] tribonacci
-- [ ] sum possible
-- [ ] min change
-- [ ] count paths
-- [ ] max path sum
-- [ ] non-adjacent sum
-- [ ] summing squares
-- [ ] counting change
-- [ ] array stepper
-- [ ] max palin subsequence
-- [ ] overlap subsequence
-- [ ] can concat
-- [ ] quickest concat
-- [ ] knightly number
+## 5. Dynamic Programming
+- [ ] fib (60 mins)
+- [ ] tribonacci (30 mins)
+- [ ] sum possible (60 mins)
+- [ ] min change (70 mins)
+- [ ] count paths (60 mins)
+- [ ] max path sum (60 mins)
+- [ ] non-adjacent sum (60 mins)
+- [ ] summing squares (60 mins)
+- [ ] counting change (60 mins)
+- [ ] array stepper (50 mins)
+- [ ] max palin subsequence (70 mins)
+- [ ] overlap subsequence (60 mins)
+- [ ] can concat (60 mins)
+- [ ] quickest concat (75 mins)
+- [ ] knightly number (40 mins)
 
-## 6. Stack - 26th Dec
-- [ ] paired parentheses
-- [ ] befitting brackets
-- [ ] decompress braces
-- [ ] nesting score
+## 6. Stack
+- [ ] paired parentheses (35 mins)
+- [ ] befitting brackets (45 mins)
+- [ ] decompress braces (60 mins)
+- [ ] nesting score (60 mins)
 
-## 7. Exhaustive Recursion - 27th Dec
-- [ ] subsets
-- [ ] permutations
-- [ ] create combinations
-- [ ] parenthetical possibilities
-- [ ] substitute synonyms
+## 7. Exhaustive Recursion
+- [ ] subsets (60 mins)
+- [ ] permutations (70 mins)
+- [ ] create combinations (75 mins)
+- [ ] parenthetical possibilities (75 mins)
+- [ ] substitute synonyms (55 mins)
 
-## 8. Revision - 28th Dec to 1st Jan
-- [ ] linked palindrome
-- [ ] middle value
-- [ ] linked list cycle
-- [ ] lowest common ancestor
-- [ ] flip tree
-- [ ] lefty nodes
-- [ ] can color
-- [ ] tolerant teams
-- [ ] rare routing
-- [ ] max increasing subseq
-- [ ] positioning plants
-- [ ] breaking boundaries
-- [ ] merge sort
-- [ ] combine intervals
-- [ ] binary search
-- [ ] binary search tree includes
-- [ ] is binary search tree
-- [ ] post order
-- [ ] build tree in post
-- [ ] build tree in pre
-- [ ] lexical order
-- [ ] detect dictionary
-- [ ] topological order
-- [ ] safe cracking
-- [ ] string search
-- [ ] token replace
-- [ ] token transform
+## 8. Revision
+- [ ] linked palindrome (20 mins)
+- [ ] middle value (20 mins)
+- [ ] linked list cycle (45 mins)
+- [ ] lowest common ancestor (50 mins)
+- [ ] flip tree (25 mins)
+- [ ] lefty nodes (30 mins)
+- [ ] can color (50 mins)
+- [ ] tolerant teams (45 mins)
+- [ ] rare routing (70 mins)
+- [ ] max increasing subseq (60 mins)
+- [ ] positioning plants (50 mins)
+- [ ] breaking boundaries (60 mins)
+- [ ] merge sort (70 mins)
+- [ ] combine intervals (60 mins)
+- [ ] binary search (40 mins)
+- [ ] binary search tree includes (40 mins)
+- [ ] is binary search tree (45 mins)
+- [ ] post order (30 mins)
+- [ ] build tree in post (75 mins)
+- [ ] build tree in pre (75 mins)
+- [ ] lexical order (50 mins)
+- [ ] detect dictionary (45 mins)
+- [ ] topological order (70 mins)
+- [ ] safe cracking (60 mins)
+- [ ] string search (45 mins)
+- [ ] token replace (50 mins)
+- [ ] token transform (50 mins)
